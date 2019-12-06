@@ -28,6 +28,11 @@
   <label for="mdp">Mot de passe :</label>
   <input type="password" name="mdp" id="mdp"/>
   </div>
+  <div>
+    <label for="msg">Message</label>
+    <textarea name="msg" id="msg"></textarea>
+
+  </div>
 
 <div>
   <input type="submit" value="Envoyer">
