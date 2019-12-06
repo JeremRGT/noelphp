@@ -1,6 +1,6 @@
 <header>
 
-  <h1>Le site des sondages</h1>
+  <h1>Le site de les sondages</h1>
   <nav>
     <ul>
       <li> <a href="index.php?page=acceuil" title="Retour à la page d'acceuil">Acceuil </a> </li>
